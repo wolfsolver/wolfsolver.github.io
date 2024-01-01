@@ -1,4 +1,8 @@
 # wolfsolver.github.io
-WolfSolver's Page
+Personal Site for Emmanuele Prudenzano
 
-by test for git pages
+Main goal:
+* about 
+* CV
+* Foto
+* Moto
