@@ -24,9 +24,10 @@ author: Emmanuele Prudenzano
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - ccelera srl: "https://www.ccelera.com"
-  Author's home: "https://emmanuele.prudenzano.org"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  My Company: "https://www.ccelera.com"
 
 ################
 # --- Logo --- #
@@ -53,7 +54,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "wolfsolver@prudenzano.org"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: wolfsolver
   twitter: wolfsolver
