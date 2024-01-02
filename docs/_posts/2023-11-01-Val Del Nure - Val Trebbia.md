@@ -8,6 +8,6 @@ categories: Moto
 ## Piccola fuga nell'appennino Tosco-Ligure
 
 mappa
-![mappa](ValDelNure-ValTrebbia.png)
+![mappa](/assets/img/ValDelNure-ValTrebbia.png)
 
 
