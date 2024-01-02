@@ -1,8 +1,9 @@
 # wolfsolver.github.io
 Personal Site for Emmanuele Prudenzano
 
-Main goal:
-* about 
-* CV
+structure:
+* about
 * Foto
-* Moto
+* Blog
+  - giri in moto
+
