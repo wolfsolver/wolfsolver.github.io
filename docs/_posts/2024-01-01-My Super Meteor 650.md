@@ -2,7 +2,7 @@
 layout: post
 title:  "My Super Meteor 650"
 date:   2024-01-01 02:00:00 +0200
-categories: Moto
+tags: Moto
 ---
 # Back on Ride
 
