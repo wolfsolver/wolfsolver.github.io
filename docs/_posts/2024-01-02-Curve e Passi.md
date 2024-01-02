@@ -7,4 +7,4 @@ categories: Moto
 
 ## da Nembro a Selvino
 
-![Nembro-Selvino](/assets/img/Nembro-Selvino]
+![Nembro-Selvino](/assets/img/Nembro-Selvino)
