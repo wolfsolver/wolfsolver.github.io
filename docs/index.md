@@ -4,11 +4,9 @@ title: tech enthusiast
 # subtitle: 
 ---
 
-<p align="center">
-**Sempre andare contro vento, solo così è possibile alzarsi in volo.**
-</p>
+> __Sempre andare contro vento, solo così è possibile alzarsi in volo.__
 
-__Appassionato da sempre di tecnologia, amo tutto ciò che è Open Source, mi piace la buona musica italiana e andare in moto.__
+_Appassionato da sempre di tecnologia, amo tutto ciò che è Open Source, mi piace la buona musica italiana e andare in moto._
 
 
 ## progetti seguiti
