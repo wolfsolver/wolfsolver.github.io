@@ -5,16 +5,16 @@ title: tech enthusiast
 ---
 
 <p align="center">
-_Sempre andare contro vento, solo così è possibile alzarsi in volo._
+**Sempre andare contro vento, solo così è possibile alzarsi in volo.**
 </p>
 
-Appassionato da sempre di tecnologia, amo tutto ciò che è Open Source, mi piace la buona musica italiana e andare in moto.
+__Appassionato da sempre di tecnologia, amo tutto ciò che è Open Source, mi piace la buona musica italiana e andare in moto.__
 
 
 ## progetti seguiti
-1. Money Manager Ex
-  - [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)
-  - [general report](https://github.com/moneymanagerex/general-reports)
-  - [Android Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex)
-1. [OSMAnd](https://github.com/osmandapp/OsmAnd)
-1. [BlendOS](https://github.com/blend-os/blendOS) [official site](https://blendos.co/)
+* Money Manager Ex
+  * [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)
+  * [general report](https://github.com/moneymanagerex/general-reports)
+  * [Android Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex)
+* [OSMAnd](https://github.com/osmandapp/OsmAnd)
+* [BlendOS](https://github.com/blend-os/blendOS) [official site](https://blendos.co/)
