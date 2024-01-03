@@ -7,7 +7,7 @@ tags: Moto
 
 ## da Nembro a Selvino
 
-![Nembro-Selvino](/assets/img/Nembro-Selvino.png)
+![Nembro-Selvino](/assets/img/Nembro-Selvino.png){: .mx-auto.d-block :}
 
 ## 18 tornanti
 Una bella e suggestiva strada con 18 tornanti in rapida successione, a due passi da bergamo
