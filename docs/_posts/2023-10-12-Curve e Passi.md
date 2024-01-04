@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Curve, Gole e Passi"
-date:   2024-01-02 02:00:00 +0200
-tags: Moto
+subtitle: SP36 Nembro-Selvino, Orrido Val Taleggio, Passo Culmine San Pietro, Passo Agueglio SP65 Scenic Route, Lungo Lago di Como
+tags: [moto, gite in moto]
 ---
 
-**SP36 Nembro-Selvino, Orrido Val Taleggio, Passo Culmine San Pietro, Passo Agueglio SP65 Scenic Route, Lungo Lago**
-
-![Curve, Gole e Passi](/assets/img/CurveGolePassi.png)
+## Mappa
+![Curve, Gole e Passi](/assets/img/CurveGolePassi.png){: .mx-auto.d-block :}
 
 ## Da Nembro a Selvino: 18 Tornanti
 

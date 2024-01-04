@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Val Del Nure - Val Trebbia"
-date:   2023-05-01 02:00:00 +0200
-tags: Moto
+subtitle: Piccola fuga nell'appennino Tosco-Ligure
+tags: [moto, gite in moto]
 ---
 
-## Piccola fuga nell'appennino Tosco-Ligure
-
-mappa
+## mappa
 ![mappa](/assets/img/ValDelNure-ValTrebbia.png){: .mx-auto.d-block :}
 
 ## sommario 
