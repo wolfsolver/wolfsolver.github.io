@@ -7,7 +7,12 @@ tags: [moto, gite in moto]
 
 ## Mappa
 
-![4 Laghi, Una Strada](/assets/img/4LaghiUnaStrada.png)
+![4 Laghi, Una Strada](/assets/img/4LaghiUnaStrada.png){: .mx-auto.d-block :}
+{: .box-note}
+* Percorso rosso: mattino
+* Percorso blu: Pomeriggio
+* Percorso marrone: wayout da Gargnano a Salò
+
 
 ## Mattina
 
