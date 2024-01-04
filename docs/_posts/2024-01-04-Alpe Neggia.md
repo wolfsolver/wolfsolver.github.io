@@ -1,8 +1,9 @@
-----
+---
 title: Scampagnata in Svizzera
 subtitle: Magadino, Alpe Neggia, Lago Delio e Macagno
 layout: post
-----
+tags: [moto, gite in moto]
+---
 
 ### Tappa 1: Magadino (Svizzera)
 
