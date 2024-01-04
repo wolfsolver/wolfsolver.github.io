@@ -5,7 +5,7 @@ date:   2024-01-02 02:00:00 +0200
 tags: Moto
 ---
 
-## da Nembro a Selvino
+**SP36 Nembro-Selvino, Orrido Val Taleggio, Passo Culmine San Pietro, Passo Agueglio SP65 Scenic Route, Lungo Lago**
 
 ![Curve, Gole e Passi](/assets/img/CurveGolePassi.png)
 
