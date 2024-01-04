@@ -2,7 +2,7 @@
 layout: post
 title:  "My Super Meteor 650"
 subtitle: Back on Ride
-tags: [Moto]
+tags: [moto]
 ---
 
 dopo tanti anni sono tornato in sella e come erede della Yamaha Virago XV 535, ho preso questa:
