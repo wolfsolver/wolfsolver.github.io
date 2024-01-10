@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Curve, Gole e Passi"
+title: Curve, Gole e Passi
 subtitle: SP36 Nembro-Selvino, Orrido Val Taleggio, Passo Culmine San Pietro, Passo Agueglio SP65 Scenic Route, Lungo Lago di Como
 tags: [moto, gite in moto]
+type: Journal
 ---
 
 ## Mappa
@@ -26,4 +27,3 @@ La SP65, conosciuta anche come Scenic Route, è il prossimo capitolo del viaggio
 
 ## Il lungo lago
 Il percorso culmina con un'esperienza rilassante lungo la strada panoramica del lungo il lago. Le acque serene, i riflessi del cielo e le montagne circostanti creano una scenografia perfetta per concludere questo giro in moto.
-
