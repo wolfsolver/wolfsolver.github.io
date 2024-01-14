@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brunate (a piedi)"
+title:  "Brunate (a piedi) [draft]"
 subtitle: "Attraverso percorsi storici"
 tags: [gite a piedi]
 ---
