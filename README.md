@@ -11,3 +11,6 @@ structure:
 * Foto
 * Blog
   - giri in moto
+
+
+CV: [CV](docs/CV.md)
