@@ -2,7 +2,7 @@
 layout: post
 title:  "Val Del Nure - Val Trebbia"
 subtitle: Piccola fuga nell'appennino Tosco-Ligure
-tags: [moto, gite in moto]
+tags: [moto, gite in moto, Fatti]
 ---
 
 ## mappa
