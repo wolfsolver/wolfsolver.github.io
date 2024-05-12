@@ -2,7 +2,7 @@
 layout: post
 title: Curve, Gole e Passi
 subtitle: SP36 Nembro-Selvino, Orrido Val Taleggio, Passo Culmine San Pietro, Passo Agueglio SP65 Scenic Route, Lungo Lago di Como
-tags: [moto, gite in moto]
+tags: [moto, gite in moto, fatti]
 type: Journal
 ---
 
