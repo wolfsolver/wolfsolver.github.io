@@ -5,6 +5,14 @@ layout: post
 tags: [moto, gite in moto]
 ---
 
+### Mappa
+
+![Scampagnata in svizzera](/assets/img/scampagnata in svizzera.png){: .mx-auto.d-block :}
+
+{: .box-note}
+* percorso in svizzera senza autostrada
+* percorso in italia con possibilità di autostrada
+
 ### Tappa 1: Magadino (Svizzera)
 
 Magadino accoglie i viaggiatori con la sua posizione affacciata sul Lago Maggiore. Questa pittoresca cittadina svizzera offre una combinazione di atmosfera tranquilla e paesaggi mozzafiato. Assicurati di visitare il Castello di Magadino, un'imponente fortezza che offre una vista panoramica sulla regione circostante.
