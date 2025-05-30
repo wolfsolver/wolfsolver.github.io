@@ -10,6 +10,7 @@ _Appassionato da sempre di tecnologia, amo tutto ciò che è Open Source, mi pia
 
 
 ## progetti seguiti
+* [Constraint SQL Builder](https://emmanuele.prudenzano.org/constraint-sql-builder/)
 * Money Manager Ex
   * [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)
   * [general report](https://github.com/moneymanagerex/general-reports)
