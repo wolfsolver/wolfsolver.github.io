@@ -28,7 +28,7 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Gite in moto: /tags/#gite%20in%20moto
-  My Company: "https://www.ccelera.com"
+#  My Company: "https://www.ccelera.com"
   ABAP CRMMS: "/abap_crmms/"
 
 ################
