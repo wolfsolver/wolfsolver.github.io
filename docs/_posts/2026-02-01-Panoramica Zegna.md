@@ -8,6 +8,7 @@ tags: [moto, gite in moto]
 # 🛣️ Roadbook: Panoramica Zegna
 **Percorso:** Valle Mosso → Bielmonte → Valle Cervo → Biella
 **Punto più alto:** Bielmonte (1500m)
+**Riferimenti**: [sito ufficiale[(https://www.oasizegna.com/it/oasi-verde/panoramica-zegna-10-tappe_7704.html)
 
 ## 📍 Tappa 1: La Porta dell'Oasi (Valle Mosso & Trivero)
 Il viaggio inizia nel cuore storico del distretto tessile biellese.
