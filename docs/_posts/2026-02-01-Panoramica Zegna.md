@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Panoramica Zegna"
-subtitle: Oasi Zegna\: Dove l\’asfalto accarezza il cielo e lo sguardo spazia nell'infinito.
+subtitle: Oasi Zegna, dove l\’asfalto accarezza il cielo e lo sguardo spazia nell'infinito.
 tags: [moto, gite in moto]
 ---
 
