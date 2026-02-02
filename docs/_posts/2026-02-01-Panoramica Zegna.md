@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Val Del Nure - Val Trebbia"
-subtitle: Piccola fuga nell'appennino Tosco-Ligure
+title:  "Panoramica Zegna"
+subtitle: Oasi Zegna: Dove l’asfalto accarezza il cielo e lo sguardo spazia nell'infinito.
 tags: [moto, gite in moto]
 ---
 
