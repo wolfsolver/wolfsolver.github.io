@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "Panoramica Zegna"
@@ -7,8 +8,8 @@ tags: [moto, gite in moto]
 # 🏍️ Roadbook: Panoramica Zegna & Santuario di San Giovanni
 
 > ToDo List:
-> - [ ] Avvisare Botega Caffè Cacao Vicolungo che passiamo
-> - [ ] Chiamare Chalet per prenotare
+> - [ ] Avvisare Botega Caffè Cacao Vicolungo che passiamo (+39 0321 835022)
+> - [ ] Chiamare CHALET BIELMONTE per prenotare (+39 335 1805160)
 > - [ ] Verificare apertura SP232 in località Margosio
 > - [ ] Verificare apertura Galleria Rosazza
 
@@ -43,11 +44,12 @@ tags: [moto, gite in moto]
 | **09:10** | Partenza | da Pogliani |
 | **09:30** | Ritrovo | Autogrill Pero Nord |
 | **09:40** | Partenza | Autogrill Pero Nord |
-| **10:20** | Ritrovo | Botega Caffè Cacao Vicolungo, con sosta caffe |
+| **10:20** | Sosta e Ritrovo | Botega Caffè Cacao Vicolungo, con sosta caffe e ritrovo per chi non fa l'autostrada |
 | **10:45** | Partenza | Botega Caffè Cacao Vicolungo |
 | **11:45** | Sosta | Bocchetta di Stravello, Panorama e Labirinto |
 | **12:15** | Ripartenza | Bocchetta di Stravello |
-| **12:45** | Pranzo | Chalet Bielmonte |
+|  | Sosta Fotografica (rapida) | Bocchetta di Margosio |
+| **12:50** | Pranzo | Chalet Bielmonte |
 
 ### Pomeriggio - Con Santuario di San Giovanni
 
@@ -70,26 +72,45 @@ tags: [moto, gite in moto]
 | **18:30** | Arrivo | Milano |
 
 ----------
+## La panoramica Zegna
+La **Panoramica Zegna (SP232)** non è solo una strada, ma un capolavoro di ingegneria e visione ambientale che attraversa l’**Oasi Zegna**, un territorio naturalistico protetto nelle Alpi Biellesi. Il percorso si snoda lungo la cresta delle montagne, offrendo un contrasto unico tra l'aspra bellezza della **Valsessera** a nord e l'infinito orizzonte della **Pianura Padana** a sud.
 
-## 📍 Punti Chiave dell'Itinerario
+#### 📜 Un po' di Storia
 
-### Bocchetta di Stravello
+Tutto nasce dalla visione di **Ermenegildo Zegna**, fondatore dell'omonimo lanificio a Trivero. Negli anni '30, Zegna non si limitò a creare tessuti, ma volle restituire valore al suo territorio d’origine.
+
+-   **Il "Pensiero Verde":** Prima ancora che si parlasse di ecologia, Zegna finanziò la piantumazione di oltre **500.000 conifere** e migliaia di rododendri e ortensie, trasformando una montagna brulla in un giardino alpino.
+    
+-   **L'opera stradale:** La costruzione della strada iniziò nel **1938**. L'obiettivo era ambizioso: rendere la montagna accessibile a tutti e collegare le comunità locali, creando al contempo un'attrattiva turistica che portasse benessere alla valle.
+    
+
+#### 💡 Curiosità per i Motociclisti
+
+-   **Il Balcone sulle Alpi:** In giornate particolarmente terse, dai punti più alti (come Bielmonte o Margosio), lo sguardo può arrivare fino alla **Madonnina del Duomo di Milano** e agli Appennini.
+    
+-   **La "Conca dei Rododendri":** Progettata negli anni '50 dall'architetto del paesaggio Pietro Porcinai, è una valle che tra maggio e giugno esplode in una fioritura di colori incredibili, visibile perfettamente dalla strada.
+        
+-   **Un'Oasi Aperta:** A differenza di molti parchi recintati, l'Oasi Zegna è un progetto di "filantropia territoriale" accessibile a tutti, dove la strada stessa funge da guida attraverso diversi ecosistemi.
+
+### 📍 Punti Chiave dell'Itinerario
+
+#### Bocchetta di Stravello
 - **Informazioni:**: È un valico alpino a 1.206 metri di quota che mette in comunicazione la Valle Sessera con la Valle di Mosso.
 - **Da vedere:** Oltre al **[Labirinto di Stravello](https://www.oasizegna.com/it/green-wellness/labirinto-stavello-oasi-zegna_9279.html)** , il punto offre una vista spettacolare sull'Alta Valle Sessera e sul massiccio del Monte Rosa. 
 
-### Bocchetta di Margosio
+#### Bocchetta di Margosio
 Sosta fotografica: il balcone sul Monte Rosa 
 
 
-### Belmonte
+#### Belmonte
 - **Informazioni:**: È il "cuore" dell'Oasi Zegna e la sua stazione sciistica principale, situata a 1.482 metri di altitudine lungo la cresta della Panoramica.
 - **Da vedere:** l piazzale panoramico che offre una vista a 360° che spazia dalla Pianura Padana alle cime delle Alpi Pennine.
 
-### Santuario di San Giovanni d'Andorno
+#### Santuario di San Giovanni d'Andorno
 - **Informazioni:** È l'unico santuario in Italia dedicato a San Giovanni Battista situato in una grotta. Si trova a 1.020 metri in Valle Cervo.    
 - **Da vedere:** La chiesa seicentesca costruita attorno alla grotta naturale, il chiostro interno e l'imponente facciata che domina la valle. 
 
-### Santuario di Oropa (Madonna Nera)
+#### Santuario di Oropa (Madonna Nera)
 - **Informazioni:** È il santuario mariano più importante delle Alpi.    
 - **Da vedere:** La Basilica Antica con la statua della Madonna Nera.
     
@@ -105,4 +126,3 @@ Sosta fotografica: il balcone sul Monte Rosa
 ## :information_source: Informazioni utili
 - :cold_sweat:**Meteo:** A 1500m (Bielmonte) la temperatura può essere di 8-10°C inferiore rispetto a Milano. Vestitevi a strati.
 - **⚠️ Rifornimento Benzina**: Assicurarsi di avere il pieno alla partenza o farlo a **Vicolungo**. Lungo la Panoramica Zegna (tratto Trivero-Bielmonte) **non ci sono distributori di benzina**.
-
