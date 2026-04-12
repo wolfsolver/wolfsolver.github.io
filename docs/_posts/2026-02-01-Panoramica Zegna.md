@@ -11,6 +11,9 @@ tags: [moto, gite in moto]
 > - [ ] Verificare apertura SP232 in località Margosio
 > - [ ] Verificare apertura Galleria Rosazza
 
+## mappa
+![mappa](/assets/img/Panoramica Zegna.png){: .mx-auto.d-block :}
+
 > ⚠️ **Premessa**:  Non è possibile raggiunger e il Santuario di Oropa passando dalla strada del Rosazza-Oropa in quanto la "Galleria Rosazza" risulta essere chiusa
 
 - **Partenza:** [Pogliani Moto](https://www.google.com/maps/place/Pogliani+Moto+e+Scooter/@45.5472165,9.2344347,18z/data=!4m6!3m5!1s0x4786bf43e2f78929:0x16dc84376c452aec!8m2!3d45.5474107!4d9.2354329!16s/g/11gzy4hmy?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) - Ritrovo ore 09:00, partenza 9.10.
