@@ -48,7 +48,7 @@ tags: [gite in moto]
 | **11:45** | Sosta | Bocchetta di Stravello, Panorama e Labirinto |
 | **12:15** | Ripartenza | Bocchetta di Stravello |
 | | Sosta fotografica | Bocchetta di Margosio |
-| | Free ride | 💡 Nota per i "Piegatori": Dopo la sosta alla Bocchetta di Stavello, la strada diventa particolarmente guidata e panoramica. Per chi desidera un’andatura più sostenuta e vuole godersi le curve in libertà può precedere il gruppo e "tirare" fino a Bielmonte, dove ci ritroveremo tutti per il pranzo allo Chalet. Mi raccomando: testa sulle spalle e ci si vede a tavola! 🏁 |
+| | Free ride 🏁 | 💡 **Tratto Bocchetta di Stravello → Bielmonte**. Dopo la sosta alla Bocchetta di Stavello, la strada diventa particolarmente guidata e panoramica. Per chi desidera un’andatura più sostenuta e vuole godersi le curve in libertà può precedere il gruppo e "tirare" fino a Bielmonte, dove ci ritroveremo tutti per il pranzo allo Chalet. Mi raccomando: testa sulle spalle e ci si vede a tavola! |
 | **12:45** | Pranzo | Chalet Bielmonte |
 
 ### Pomeriggio - Con Santuario San Giovanni d'Andorno
