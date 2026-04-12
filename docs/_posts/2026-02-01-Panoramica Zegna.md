@@ -19,7 +19,7 @@ tags: [moto, gite in moto]
 
 - **Partenza:** [Pogliani Moto](https://www.google.com/maps/place/Pogliani+Moto+e+Scooter/@45.5472165,9.2344347,18z/data=!4m6!3m5!1s0x4786bf43e2f78929:0x16dc84376c452aec!8m2!3d45.5474107!4d9.2354329!16s/g/11gzy4hmy?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) - Ritrovo ore 09:00, partenza 9.10.
 - **1° Ritrovo:** per chi abita verso Milano ovest: [Autogrill Pero Nord](https://www.google.com/maps/place/Autogrill+Pero+Nord/@45.5138127,9.0672392,16z/data=!3m1!4b1!4m6!3m5!1s0x4786eaf0417da753:0xe37957dae3684d3d!8m2!3d45.5138127!4d9.0698141!16s/g/1hc87kjrm?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) - ore 09:30, partenza 9.40.
-- **2° Ritrovo:** per chi non vuole fare autostrada: [Botega Caffè Cacao Vicolungo](https://www.google.com/maps/place/Botega+Caff%C3%A8+Cacao+Vicolungo/@45.467846,8.460613,17z/data=!3m1!4b1!4m6!3m5!1s0x478645c8c4f322b1:0x67e3840408bdb2a4!8m2!3d45.467846!4d8.4631879!16s/g/1pp2tjy_f?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) ore 10.20. partenza 10.45. *Ritrovo valido per chi vuole venire ma non vuole fare autostrada.*
+- **Sosta e 2° Ritrovo:** Pausa Caffè e ritrovo per chi non vuole fare l'autostrada: [Botega Caffè Cacao Vicolungo](https://www.google.com/maps/place/Botega+Caff%C3%A8+Cacao+Vicolungo/@45.467846,8.460613,17z/data=!3m1!4b1!4m6!3m5!1s0x478645c8c4f322b1:0x67e3840408bdb2a4!8m2!3d45.467846!4d8.4631879!16s/g/1pp2tjy_f?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) ore 10.20. partenza 10.45.
 - **Destinazione:** Panoramica Zegna & Santuario di San Giovanni ( o Santuario di Oropa in base al percorso)
 - **Rientro**: Al rientro  ci salutiamo tutti all'entrata in autostrada a Carisio non sono previste altre soste e il gruppo si può scogliere.
 
