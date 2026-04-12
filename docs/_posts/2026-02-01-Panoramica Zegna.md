@@ -7,6 +7,7 @@ tags: [moto, gite in moto]
 # 🏍️ Roadbook: Panoramica Zegna & Santuario di San Giovanni
 
 > ToDo List:
+> - [ ] Avvisare Botega Caffè Cacao Vicolungo che passiamo
 > - [ ] Chiamare Chalet per prenotare
 > - [ ] Verificare apertura SP232 in località Margosio
 > - [ ] Verificare apertura Galleria Rosazza
