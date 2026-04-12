@@ -2,7 +2,7 @@
 layout: post
 title:  "Quattro Laghi, Una Strada"
 subtitle: Un Viaggio Panoramico tra Idro, Ledro, Garda e Valvestino passando per la Forra
-tags: [moto, gite in moto]
+tags: [gite in moto]
 ---
 
 ## Mappa
