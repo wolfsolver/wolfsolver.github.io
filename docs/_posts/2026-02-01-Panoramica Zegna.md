@@ -1,15 +1,14 @@
-
 ---
 layout: post
 title:  "Panoramica Zegna"
 subtitle: Oasi Zegna, dove l’asfalto accarezza il cielo e lo sguardo spazia nell'infinito.
-tags: [moto, gite in moto]
+tags: [gite in moto]
 ---
-# 🏍️ Roadbook: Panoramica Zegna & Santuario di San Giovanni
+# 🏍️ Roadbook: Panoramica Zegna & Santuario San Giovanni d'Andorno
 
 > ToDo List:
-> - [ ] Avvisare Botega Caffè Cacao Vicolungo che passiamo (+39 0321 835022)
-> - [ ] Chiamare CHALET BIELMONTE per prenotare (+39 335 1805160)
+> - [ ] Avvisare Botega Caffè Cacao Vicolungo che passiamo
+> - [ ] Chiamare Chalet per prenotare
 > - [ ] Verificare apertura SP232 in località Margosio
 > - [ ] Verificare apertura Galleria Rosazza
 
@@ -21,14 +20,14 @@ tags: [moto, gite in moto]
 - **Partenza:** [Pogliani Moto](https://www.google.com/maps/place/Pogliani+Moto+e+Scooter/@45.5472165,9.2344347,18z/data=!4m6!3m5!1s0x4786bf43e2f78929:0x16dc84376c452aec!8m2!3d45.5474107!4d9.2354329!16s/g/11gzy4hmy?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) - Ritrovo ore 09:00, partenza 9.10.
 - **1° Ritrovo:** per chi abita verso Milano ovest: [Autogrill Pero Nord](https://www.google.com/maps/place/Autogrill+Pero+Nord/@45.5138127,9.0672392,16z/data=!3m1!4b1!4m6!3m5!1s0x4786eaf0417da753:0xe37957dae3684d3d!8m2!3d45.5138127!4d9.0698141!16s/g/1hc87kjrm?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) - ore 09:30, partenza 9.40.
 - **Sosta e 2° Ritrovo:** Pausa Caffè e ritrovo per chi non vuole fare l'autostrada: [Botega Caffè Cacao Vicolungo](https://www.google.com/maps/place/Botega+Caff%C3%A8+Cacao+Vicolungo/@45.467846,8.460613,17z/data=!3m1!4b1!4m6!3m5!1s0x478645c8c4f322b1:0x67e3840408bdb2a4!8m2!3d45.467846!4d8.4631879!16s/g/1pp2tjy_f?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw==) ore 10.20. partenza 10.45.
-- **Destinazione:** Panoramica Zegna & Santuario di San Giovanni ( o Santuario di Oropa in base al percorso)
+- **Destinazione:** Panoramica Zegna & Santuario San Giovanni d'Andorno ( o Santuario di Oropa in base al percorso)
 - **Rientro**: Al rientro  ci salutiamo tutti all'entrata in autostrada a Carisio non sono previste altre soste e il gruppo si può scogliere.
 
 ## Tracciati
 * Segmenti
   * [Milano (Pogliani) - Area Rho - Botega Caffè Cacao Vicolungo](https://maps.app.goo.gl/FKik8sHCf1j9rcWD7)
   * [Vicolungo - Boccetta di Stravello - Belmonte](https://maps.app.goo.gl/ogCm6yowjEdCcXB17). Nota il tratto Boccetta di Stravello - Belonte della SP232 potrebbe essere chiuso. in tal caso c'è comunque la strada "superiore"
-  * [Belmonte - Santuario San Giovanni - Carisio](https://maps.app.goo.gl/kv9XUFNQ7qhFoZgP8)
+  * [Belmonte - Santuario San Giovanni d'Andorno - Carisio](https://maps.app.goo.gl/kv9XUFNQ7qhFoZgP8)
   * [Carisio - Milano](https://maps.app.goo.gl/i17cCMdMEZdgkm4t5)
 * [Giro completo](https://maps.app.goo.gl/iBbZX4qTBqSv4iHUA)
 * [Giro base](https://maps.app.goo.gl/1MpLg5Ryiim9iiJ89)
@@ -44,20 +43,19 @@ tags: [moto, gite in moto]
 | **09:10** | Partenza | da Pogliani |
 | **09:30** | Ritrovo | Autogrill Pero Nord |
 | **09:40** | Partenza | Autogrill Pero Nord |
-| **10:20** | Sosta e Ritrovo | Botega Caffè Cacao Vicolungo, con sosta caffe e ritrovo per chi non fa l'autostrada |
+| **10:20** | Ritrovo | Botega Caffè Cacao Vicolungo, con sosta caffe |
 | **10:45** | Partenza | Botega Caffè Cacao Vicolungo |
 | **11:45** | Sosta | Bocchetta di Stravello, Panorama e Labirinto |
 | **12:15** | Ripartenza | Bocchetta di Stravello |
-|  | Sosta Fotografica (rapida) | Bocchetta di Margosio |
-| **12:50** | Pranzo | Chalet Bielmonte |
+| **12:45** | Pranzo | Chalet Bielmonte |
 
-### Pomeriggio - Con Santuario di San Giovanni
+### Pomeriggio - Con Santuario San Giovanni d'Andorno
 
 | **Orario** | **Attività** | **Luogo / Note** | 
 |--|--|--|
 | **14:30** | Partenza | Chalet Bielmonte |
-| **15:00** | Visita al Santuario | Il Santuario di San Giovanni |
-| **16:00** | Partenza | Santuario di San Giovanni |
+| **15:00** | Visita al Santuario | Santuario San Giovanni d'Andorno |
+| **16:00** | Partenza | Santuario San Giovanni d'Andorno |
 | **17:00** | Saluti e Imbocco Autostrada | Parcheggio Casello di Carisio |
 | **18:00** | Arrivo | Milano |
 
@@ -84,7 +82,7 @@ Tutto nasce dalla visione di **Ermenegildo Zegna**, fondatore dell'omonimo lanif
 -   **L'opera stradale:** La costruzione della strada iniziò nel **1938**. L'obiettivo era ambizioso: rendere la montagna accessibile a tutti e collegare le comunità locali, creando al contempo un'attrattiva turistica che portasse benessere alla valle.
     
 
-#### 💡 Curiosità per i Motociclisti
+#### 💡 Curiosità
 
 -   **Il Balcone sulle Alpi:** In giornate particolarmente terse, dai punti più alti (come Bielmonte o Margosio), lo sguardo può arrivare fino alla **Madonnina del Duomo di Milano** e agli Appennini.
     
@@ -100,7 +98,6 @@ Tutto nasce dalla visione di **Ermenegildo Zegna**, fondatore dell'omonimo lanif
 
 #### Bocchetta di Margosio
 Sosta fotografica: il balcone sul Monte Rosa 
-
 
 #### Belmonte
 - **Informazioni:**: È il "cuore" dell'Oasi Zegna e la sua stazione sciistica principale, situata a 1.482 metri di altitudine lungo la cresta della Panoramica.
@@ -126,3 +123,15 @@ Sosta fotografica: il balcone sul Monte Rosa
 ## :information_source: Informazioni utili
 - :cold_sweat:**Meteo:** A 1500m (Bielmonte) la temperatura può essere di 8-10°C inferiore rispetto a Milano. Vestitevi a strati.
 - **⚠️ Rifornimento Benzina**: Assicurarsi di avere il pieno alla partenza o farlo a **Vicolungo**. Lungo la Panoramica Zegna (tratto Trivero-Bielmonte) **non ci sono distributori di benzina**.
+
+## Galleria
+Labirinto di Stradella
+![Labirinto di Stradella](https://www.oasizegna.com/files/schede/img3/9808.jpg)
+Monte Rosa
+![Monte Rosa](https://media-cdn.tripadvisor.com/media/photo-s/0f/6f/b8/f6/monte-rosa-dalla-bocchetta.jpg)
+Panoramica Zegna
+![enter image description here](https://www.fondazionezegna.org/wp-content/uploads/2023/06/panoramica-tracciato_foto-Mazzeranghi.jpg)
+Conca dei Rododendri
+![# Conca dei Rododendri](https://primabiella.it/media/2020/05/fioriture-_oasizegna-5.jpg)
+Santuario San Giovanni d'Andorno
+![Santuario San Giovanni d'Andorno](https://www.wedding.visitpiemonte.com/wp-content/uploads/2022/12/santuario-san-giovanni-01.jpg)
