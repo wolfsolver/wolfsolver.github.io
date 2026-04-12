@@ -23,7 +23,7 @@ author: Emmanuele Prudenzano
 ###############################################
 
 navbar-links:
-  CV: "cv"
+#  CV: "cv"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
