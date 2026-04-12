@@ -31,8 +31,8 @@ tags: [moto, gite in moto]
   * [Carisio - Milano](https://maps.app.goo.gl/i17cCMdMEZdgkm4t5)
 * [Giro completo](https://maps.app.goo.gl/iBbZX4qTBqSv4iHUA)
 * [Giro base](https://maps.app.goo.gl/1MpLg5Ryiim9iiJ89)
-* Traccia GPX Vicolungo - Boccetta di Stravello - Belmonte - Santuario San Giovanni - Carisio
-
+* Traccia GPX [Vicolungo - Boccetta di Stravello - Belmonte - Santuario San Giovanni - Carisio](https://1drv.ms/u/c/6958bccc4c47c1d3/IQCAB0dew5ReRYPrpw0A_Z4yAbr8RIuKl3po7_iRBmWmG90?e=Y9Slj3)
+ 
 ## 🕒 Cronoprogramma della Giornata
 
 ### Mattina
