@@ -47,6 +47,8 @@ tags: [gite in moto]
 | **10:45** | Partenza | Botega Caffè Cacao Vicolungo |
 | **11:45** | Sosta | Bocchetta di Stravello, Panorama e Labirinto |
 | **12:15** | Ripartenza | Bocchetta di Stravello |
+| | Sosta fotografica | Bocchetta di Margosio |
+| | Free ride | 💡 Nota per i "Piegatori": Dopo la sosta alla Bocchetta di Stavello, la strada diventa particolarmente guidata e panoramica. Per chi desidera un’andatura più sostenuta e vuole godersi le curve in libertà può precedere il gruppo e "tirare" fino a Bielmonte, dove ci ritroveremo tutti per il pranzo allo Chalet. Mi raccomando: testa sulle spalle e ci si vede a tavola! 🏁 |
 | **12:45** | Pranzo | Chalet Bielmonte |
 
 ### Pomeriggio - Con Santuario San Giovanni d'Andorno
@@ -82,7 +84,7 @@ Tutto nasce dalla visione di **Ermenegildo Zegna**, fondatore dell'omonimo lanif
 -   **L'opera stradale:** La costruzione della strada iniziò nel **1938**. L'obiettivo era ambizioso: rendere la montagna accessibile a tutti e collegare le comunità locali, creando al contempo un'attrattiva turistica che portasse benessere alla valle.
     
 
-#### 💡 Curiosità
+#### 💡 Curiosità per i Motociclisti
 
 -   **Il Balcone sulle Alpi:** In giornate particolarmente terse, dai punti più alti (come Bielmonte o Margosio), lo sguardo può arrivare fino alla **Madonnina del Duomo di Milano** e agli Appennini.
     
@@ -98,6 +100,7 @@ Tutto nasce dalla visione di **Ermenegildo Zegna**, fondatore dell'omonimo lanif
 
 #### Bocchetta di Margosio
 Sosta fotografica: il balcone sul Monte Rosa 
+
 
 #### Belmonte
 - **Informazioni:**: È il "cuore" dell'Oasi Zegna e la sua stazione sciistica principale, situata a 1.482 metri di altitudine lungo la cresta della Panoramica.
@@ -120,8 +123,8 @@ Sosta fotografica: il balcone sul Monte Rosa
 - **Tempo di Guida Totale:** ~4 ore e 15 minuti.
 	- **di cui in autostrada:** ~2 ore
 
-## :information_source: Informazioni utili
-- :cold_sweat:**Meteo:** A 1500m (Bielmonte) la temperatura può essere di 8-10°C inferiore rispetto a Milano. Vestitevi a strati.
+## ## ℹ️Informazioni utili
+- **😰Meteo:** A 1500m (Bielmonte) la temperatura può essere di 8-10°C inferiore rispetto a Milano. Vestitevi a strati.
 - **⚠️ Rifornimento Benzina**: Assicurarsi di avere il pieno alla partenza o farlo a **Vicolungo**. Lungo la Panoramica Zegna (tratto Trivero-Bielmonte) **non ci sono distributori di benzina**.
 
 ## Galleria
