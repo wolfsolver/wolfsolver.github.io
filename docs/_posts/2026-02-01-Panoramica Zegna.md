@@ -36,6 +36,7 @@ tags: [moto, gite in moto]
 ## 🕒 Cronoprogramma della Giornata
 
 ### Mattina
+
 | **Orario** | **Attività** | **Luogo / Note** | 
 |--|--|--|
 | **09:00** | Ritrovo | Pogliani |
@@ -49,6 +50,7 @@ tags: [moto, gite in moto]
 | **12:45** | Pranzo | Chalet Bielmonte |
 
 ### Pomeriggio - Con Santuario di San Giovanni
+
 | **Orario** | **Attività** | **Luogo / Note** | 
 |--|--|--|
 | **14:30** | Partenza | Chalet Bielmonte |
@@ -58,6 +60,7 @@ tags: [moto, gite in moto]
 | **18:00** | Arrivo | Milano |
 
 ### Pomeriggio - [VARIANTE] Con Santuario di Oropa
+
 | **Orario** | **Attività** | **Luogo / Note** | 
 |--|--|--|
 | **14:30** | Partenza | Chalet Bielmonte |
